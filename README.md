@@ -6,3 +6,6 @@
 
 #### [0x01-developer_tools](./0x01-developer_tools)
 * Directory to learn about developer tools in the browser.
+
+#### [0x02-CSS_advanced](0x02-CSS_advanced)
+* Directory to learn CSS in depth.
