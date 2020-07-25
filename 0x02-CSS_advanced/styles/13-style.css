@@ -30,7 +30,7 @@
 }
 html {
 	scroll-behavior: smooth;
-	font-size: 65%;
+	font-size: 62.5%;
 }
 body {
 	color: var(--text-color);
@@ -48,7 +48,7 @@ h6 {
 	font-family: var(--font-family-title);
 	font-weight: var(--font-weight-bold);
 }
-a[href] {
+a:link {
 	color: var(--text-color);
 	text-decoration: none;
 }
