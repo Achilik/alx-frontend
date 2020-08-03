@@ -12,3 +12,6 @@
 
 #### [0x03-sass_scss](./0x03-sass_scss)
 * Directory to learn about Sass and Scss.
+
+#### [0x04-flexbox](./0x04-flexbox)
+* Directory to learn about Flexbox.
