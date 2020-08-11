@@ -17,4 +17,7 @@
 * Directory to learn about Flexbox.
 
 #### [0x05-form](./0x05-form)
-* Directory to learn about Flexbox.
+* Directory to learn about HTML Forms.
+
+#### [0x06-responsive_design](./0x06-responsive_design)
+* Directory to learn about Responsive design.
