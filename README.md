@@ -21,3 +21,6 @@
 
 #### [0x06-responsive_design](./0x06-responsive_design)
 * Directory to learn about Responsive design.
+
+#### [0x07-accessibility](./0x07-accessibility)
+* Directory to learn about Accessibility.

@@ -1,0 +1,2 @@
+# Accessability
+### This directory is for learning about accessibility. We continue with the Techium webpage created in previous projects but now we are making many aspects of the page more accessible.
