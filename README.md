@@ -37,3 +37,7 @@
 #### [0x0A-Bootstrap](./0x0A-Bootstrap)
 
 - Directory to learn about Bootstrap.
+
+#### [0x0C-Javascript_advanced](./0x0C-Javascript_advanced)
+
+- Directory to learn Javascript in depth.
