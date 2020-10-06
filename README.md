@@ -41,3 +41,11 @@
 #### [0x0C-Javascript_advanced](./0x0C-Javascript_advanced)
 
 - Directory to learn Javascript in depth.
+
+#### [0x0D-JQuery_advanced](./0x0D-JQuery_advanced)
+
+- Directory to learn about JQuery in depth.
+
+#### [0x0E-Cookies_local_storage](./0x0E-Cookies_local_storage)
+
+- Directory to learn about cookies and local storage.
