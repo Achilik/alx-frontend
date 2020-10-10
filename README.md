@@ -49,4 +49,3 @@
 #### [0x0E-Cookies_local_storage](./0x0E-Cookies_local_storage)
 
 - Directory to learn about cookies and local storage.
-test
